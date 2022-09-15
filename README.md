@@ -1,6 +1,3 @@
 # planets
-<<<<<<< HEAD
 yummy earth
-=======
-i love the sun
->>>>>>> sun
+i love the sun 
