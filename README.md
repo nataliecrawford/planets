@@ -1,3 +1,2 @@
 # planets
-yummy earth
-i love the sun 
+yummy earth i love the sun 
